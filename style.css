@@ -130,6 +130,7 @@ input:invalid {
   border: 1px solid hsl(154, 59% 31%);
 }
 
+
 span {
   display: none;
 }
@@ -157,13 +158,7 @@ span {
 
   .box2,
   .box1 {
-    width: 100%;
-  }
-
-  .main {
-    width: 100%;
-    display: flex;
-    flex-flow: row wrap;
+    width: 50%;
   }
 }
 
@@ -173,11 +168,12 @@ span {
   .box1 {
     width: 100%;
   }
-}
 
-.main {
-  width: 98%;
-  flex-direction: column;
+  .main {
+    width: 98%;
+    flex-direction: column;
+  }
+
 }
 
 
