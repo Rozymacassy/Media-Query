@@ -181,6 +181,7 @@ span {
 
   .box2,
   .box1 {
+    background-image: url(./bg-intro-mobile.png);
     width: 100%;
   }
 
